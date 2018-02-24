@@ -25,6 +25,9 @@ h3 {
 .supporting {
   text-align: center;
 }
+.supporting p {
+  font-size: 14px;
+}
 .btn-nav {
   font-size: 18px;
   color: white;
