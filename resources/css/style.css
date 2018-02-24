@@ -2,60 +2,18 @@
   box-sizing: border-box;
 }
 body {
-  text-align: center;
-  font-family: helvetica;
+  font-family: "helvetica", sans-serif;
 }
-.header {
-  margin: 0 auto;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-}
-h1 {
-  color: white;
-  font-size: 70px;
-  font-weight: bold;
-}
-ul {
-  text-decoration: underline;
-  list-style: none;
-  font-size: 18px;
-}
-.header a {
-  text-decoration: none;
-  color: white;
-}
-.header li {
-  padding: 5px;
-}
-h2 {
-  font-size: 32px;
-  font-weight: bold;
-}
+h1,
+h2,
 h3 {
-  font-size: 23px;
   font-weight: bold;
 }
-.banner {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-}
-.banner h3 {
+.hero {
   color: white;
-  font-size: 23px;
-  font-weight: bold;
-}
-p {
-  font-size: 14px;
 }
 .footer {
   background-color: dimgray;
-}
-.footer p {
-  float: left;
   font-size: 11px;
   color: white;
-}
-.footer a {
-  color: white;
-}
-.footer li {
-  display: inline;
 }
