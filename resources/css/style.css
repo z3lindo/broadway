@@ -5,3 +5,16 @@ body {
   text-align: center;
   font-family: helvetica;
 }
+.header {
+  margin: 0 auto;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+}
