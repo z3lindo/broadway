@@ -45,3 +45,17 @@ h3 {
 p {
   font-size: 14px;
 }
+.footer {
+  background-color: dimgray;
+}
+.footer p {
+  float: left;
+  font-size: 11px;
+  color: white;
+}
+.footer a {
+  color: white;
+}
+.footer li {
+  display: inline;
+}
