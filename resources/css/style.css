@@ -17,10 +17,14 @@ h1 {
 ul {
   text-decoration: underline;
   list-style: none;
+  font-size: 18px;
 }
 .header a {
   text-decoration: none;
   color: white;
+}
+.header li {
+  padding: 5px;
 }
 h2 {
   font-size: 32px;
@@ -37,4 +41,7 @@ h3 {
   color: white;
   font-size: 23px;
   font-weight: bold;
+}
+p {
+  font-size: 14px;
 }
